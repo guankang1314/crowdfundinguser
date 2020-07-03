@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67cb1771-cb56-4363-b934-0eaa6d287fef" name="Default Changelist" comment="结束实现远程调用，前后端分离">
+      <change beforePath="$PROJECT_DIR$/scw-project/src/main/java/com/atguan/scw/project/controller/ProjectCreateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/scw-project/src/main/java/com/atguan/scw/project/controller/ProjectCreateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scw-project/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/scw-project/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scw-user/src/main/java/com/atguan/scw/user/controller/UserLoginRegistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/scw-user/src/main/java/com/atguan/scw/user/controller/UserLoginRegistController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1dFNli2hJs55tL1qpA9VxYN00VW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-helloworld-auto/src/main/resources/templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguan.scw.order.vo.resp" />
+      <recent name="com.atguan.scw.order.vo.req" />
+      <recent name="com.atguan.scw.webui.vo.resp" />
+      <recent name="com.atguan.scw.project.vo.resp" />
+      <recent name="com.atguan.scw.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\scw\scw-webui\src\main\java\com\atguan\scw\webui\config" />
+      <recent name="D:\workspace\scw\scw-common\src\main\java\com\atguan\scw\enums" />
+      <recent name="D:\workspace\scw\scw-webui\src\main\resources\templates\member" />
+      <recent name="D:\workspace\scw\scw-order\src\main\java\com\atguan\scw\order\vo" />
+      <recent name="D:\workspace\scw\scw-order\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SvwWebuiApplication">
+    <configuration name="OssTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguan.scw.OssTest" />
+      <module name="scw-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguan.scw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scw-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguan.scw.ScwOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scw-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguan.scw.ScwProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwRegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scw-register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguan.scw.ScwRegisterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScwUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scw-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguan.scw.ScwUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SvwWebuiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scw-webui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguan.scw.SvwWebuiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OssTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67cb1771-cb56-4363-b934-0eaa6d287fef" name="Default Changelist" comment="" />
+      <created>1592017033381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592017033381</updated>
+      <workItem from="1592017035123" duration="26550000" />
+      <workItem from="1592092767176" duration="19601000" />
+      <workItem from="1592182028358" duration="25767000" />
+      <workItem from="1592226526931" duration="528000" />
+      <workItem from="1592266148114" duration="25468000" />
+      <workItem from="1592351609769" duration="27491000" />
+      <workItem from="1592460477184" duration="4637000" />
+      <workItem from="1592559604228" duration="857000" />
+      <workItem from="1592637041617" duration="1064000" />
+      <workItem from="1592730360497" duration="683000" />
+      <workItem from="1592785441062" duration="37000" />
+      <workItem from="1592824097079" duration="803000" />
+      <workItem from="1592954332359" duration="334000" />
+      <workItem from="1592968307803" duration="614000" />
+      <workItem from="1593082882968" duration="443000" />
+      <workItem from="1593139807419" duration="64000" />
+      <workItem from="1593263030599" duration="890000" />
+      <workItem from="1593332453714" duration="110000" />
+      <workItem from="1593334664802" duration="1205000" />
+      <workItem from="1593384415514" duration="25000" />
+      <workItem from="1593388075406" duration="48000" />
+      <workItem from="1593412505557" duration="117000" />
+      <workItem from="1593420642084" duration="72000" />
+      <workItem from="1593422544388" duration="316000" />
+      <workItem from="1593477639122" duration="363000" />
+      <workItem from="1593478959610" duration="930000" />
+      <workItem from="1593496181237" duration="770000" />
+      <workItem from="1593564024137" duration="164000" />
+      <workItem from="1593691265393" duration="472000" />
+      <workItem from="1593693466064" duration="1178000" />
+      <workItem from="1593739191920" duration="6284000" />
+    </task>
+    <task id="LOCAL-00001" summary="结束实现远程调用，前后端分离">
+      <created>1592387594877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592387594877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="结束实现远程调用，前后端分离">
+      <created>1592462384491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592462384491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="结束实现远程调用，前后端分离">
+      <created>1593083254117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593083254117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="结束实现远程调用，前后端分离" />
+    <option name="LAST_COMMIT_MESSAGE" value="结束实现远程调用，前后端分离" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="237" key="#Notifications" timestamp="1592387644519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="237" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1592387644519" />
+    <state x="281" y="0" key="#Project_Structure" timestamp="1593388084906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593388084906" />
+    <state x="255" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592193086779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="255" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592193086779" />
+    <state x="605" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1592384340255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="605" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592384340255" />
+    <state x="389" y="387" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592201053420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="387" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1592201053420" />
+    <state x="514" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592368671465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592368671465" />
+    <state x="667" y="109" key="FileChooserDialogImpl" timestamp="1593739337077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="667" y="109" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593739337077" />
+    <state width="1444" height="203" key="GridCell.Tab.0.bottom" timestamp="1592488380098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1444" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592488380098" />
+    <state width="1444" height="203" key="GridCell.Tab.0.center" timestamp="1592488380097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1444" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592488380097" />
+    <state width="1444" height="203" key="GridCell.Tab.0.left" timestamp="1592488380097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1444" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592488380097" />
+    <state width="1444" height="203" key="GridCell.Tab.0.right" timestamp="1592488380098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1444" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592488380098" />
+    <state width="1443" height="203" key="GridCell.Tab.1.bottom" timestamp="1592396195147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="203" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592396195147" />
+    <state width="1443" height="203" key="GridCell.Tab.1.center" timestamp="1592396195147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="203" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592396195147" />
+    <state width="1443" height="203" key="GridCell.Tab.1.left" timestamp="1592396195147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="203" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592396195147" />
+    <state width="1443" height="203" key="GridCell.Tab.1.right" timestamp="1592396195147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="203" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592396195147" />
+    <state width="1446" height="294" key="GridCell.Tab.2.bottom" timestamp="1592225876669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1446" height="294" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592225876669" />
+    <state width="1446" height="294" key="GridCell.Tab.2.center" timestamp="1592225876668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1446" height="294" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1592225876668" />
+    <state width="1446" height="294" key="GridCell.Tab.2.left" timestamp="1592225876667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1446" height="294" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1592225876667" />
+    <state width="1446" height="294" key="GridCell.Tab.2.right" timestamp="1592225876668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1446" height="294" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1592225876668" />
+    <state x="403" y="30" key="NewModule_or_Project.wizard" timestamp="1592120154396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="30" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1592120154396" />
+    <state x="319" y="0" key="SettingsEditor" timestamp="1592954662903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="319" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592954662903" />
+    <state x="439" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593083292861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593083292861" />
+    <state x="558" y="198" key="git4idea.merge.GitMergeDialog" timestamp="1592460969052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="198" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1592460969052" />
+    <state x="405" y="77" width="1090" height="674" key="new project wizard" timestamp="1592188382947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="77" width="1090" height="674" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592188382947" />
+    <state x="501" y="190" width="672" height="677" key="run.anything.popup" timestamp="1593422683097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593422683097" />
+    <state x="486" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1593422719667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593422719667" />
+  </component>
+</project>

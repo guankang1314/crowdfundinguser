@@ -33,7 +33,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @Api(tags = "项目发起模块")
-	@RequestMapping("/project/create")
+@RequestMapping("/project/create")
 @RestController
 public class ProjectCreateController {
 	

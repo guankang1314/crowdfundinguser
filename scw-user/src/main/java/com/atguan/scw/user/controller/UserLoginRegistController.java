@@ -40,6 +40,7 @@ public class UserLoginRegistController {
 	@Autowired
 	StringRedisTemplate stringRedisTemplate;
 
+
 	@Autowired
 	TMemberService memberService;
 	
